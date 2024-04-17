@@ -110,6 +110,7 @@ th a{
     display: flex;
     justify-content: space-between;
     text-align: center;
+    align-items: center;
 }
 .top div, .bottom div{
     width: 50%;
